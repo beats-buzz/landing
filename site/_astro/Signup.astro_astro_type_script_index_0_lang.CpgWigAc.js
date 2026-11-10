@@ -1,0 +1,1 @@
+import{n as e}from"./signup.-1RNzyfh.js";document.querySelectorAll(`form.signup`).forEach(e);
